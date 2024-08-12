@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🥇
 
-<!--
-**AnjoAzull/AnjoAzull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Miguel Duarte
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura ](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript 
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+00001099962560sp@al.educacao.sp.gov.br
+
+![](https://e-cdn-images.dzcdn.net/images/cover/f75f0defba27985866708d0a677dde4e/500x500-000000-80-0-0.jpg)
